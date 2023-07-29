@@ -177,11 +177,12 @@ header {
 
 .home_item2 {
   margin: 0 auto;
+  height: 628px;
 }
 
 .home_item2 img {
   width: 100%;
-  max-height: 628px;
+  height: 628px;
   object-fit: cover;
   position: absolute;
   z-index: -1;
@@ -291,4 +292,228 @@ header {
   font-weight: 400;
   line-height: normal;
   text-transform: uppercase;
+}
+
+.home_item3 {
+  background: linear-gradient(90deg, #0e1924 50%, #192c3e 50%);
+}
+
+.container {
+  max-width: 1920px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+}
+
+.home_item3 .container .gift-card-section {
+  max-width: 303px;
+  background: #0e1924;
+  padding-top: 49px;
+}
+
+.home_item3 .container .gift-card-section .title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 42px;
+}
+
+.home_item3 .container .gift-card-section .title h2 {
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.home_item3 .container .gift-card-section .title p {
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.home_item3 .container .gift-card-section .price {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 31px 0 40px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.home_item3 .container .gift-card-section .price .number {
+  height: 29px;
+  background: #192c3e;
+  padding: 2px 8px 1px 8px;
+}
+
+.home_item3 .container .gift-card-section .price .number h2 {
+  color: #fff;
+  font-feature-settings: "case" on;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.home_item3 .container .gift-card-section .price .dot {
+  background: #fff;
+  height: 6px;
+  width: 6px;
+  border-radius: 100%;
+  margin: 0 9px;
+}
+
+.home_item3 .container .gift-card-section .btn-wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.home_item3 .container .gift-card-section .btn-wrap button {
+  padding: 7px 27px;
+  height: 32px;
+  background: #192c3e;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+  font-feature-settings: "case" on;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+.home_item3 .container .gift-card-section .card-details-wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 9px;
+}
+
+.home_item3 .container .gift-card-section .card-details-wrap p {
+  text-transform: capitalize;
+  color: #fff;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.home_item3 .container .gift-card-section .gift-card-hr {
+  background-image: url("./img/icons/gift-card-hr.svg");
+  margin: 48px auto;
+  height: 2px;
+  width: 56px;
+}
+
+.home_item3 .container .gift-card-section .sub-heading-link-wrap {
+  margin: 20px 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.home_item3 .container .gift-card-section .sub-heading-link-wrap h3 {
+  color: #fff;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+}
+
+.home_item3 .container .gift-card-section .sub-heading-link-wrap a {
+  color: #51d3ff;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+  text-transform: capitalize;
+  padding-bottom: 3px;
+}
+
+.home_item3 .container .feature-recommded-section {
+  width: 1617px;
+  background: #192c3e;
+  padding: 49px 90px;
+}
+
+.home_item3 .container .feature-recommded-section .title h2 {
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.home_item3 .container .feature-recommded-section .recomended-wrapper2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 27px;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .recomended-wrapper2
+  .recomanded-banner-wrap {
+  width: 954px;
+  height: 543px;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .recomended-wrapper2
+  .recomanded-banner-wrap
+  img {
+  width: 954px;
+  height: 543px;
+  object-fit: cover;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .recomended-wrapper2
+  .recomanded-banner-wrap
+  div {
+  height: 24px;
+  background: #0e1924;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .recomended-wrapper2
+  .recomanded-banner-wrap
+  div
+  h4 {
+  color: #fff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .recomended-wrapper2
+  .recomended-card-container {
+  width: 453px;
+  height: 543px;
+  background: #0e1924;
 }
