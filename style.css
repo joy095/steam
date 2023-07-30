@@ -644,7 +644,6 @@ header {
   div
   p {
   color: #fff;
-  font-family: Montserrat;
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -858,4 +857,150 @@ header {
   position: absolute;
   max-width: 222px;
   bottom: 30px;
+}
+
+.home_item3 .container .feature-recommded-section .row2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 30px;
+  padding: 30px 0 90px;
+}
+
+.home_item3 .container .feature-recommded-section .row2 .img-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .row2
+  .img-container
+  .img-wrap {
+  width: 303px;
+  height: 181px;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .row2
+  .img-container
+  .img-wrap
+  img {
+  width: 303px;
+  height: 181px;
+  object-fit: cover;
+}
+
+.home_item3 .container .feature-recommded-section .row2 .btn-container {
+  min-width: 453px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.home_item3 .container .feature-recommded-section .row2 .btn-container .row3 {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 12px;
+  cursor: pointer;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .row2
+  .btn-container
+  .row3
+  .sm-btn {
+  height: 30px;
+  border-radius: 73px;
+  background: #0e1924;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 20px;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .row2
+  .btn-container
+  .row3
+  .sm-btn
+  p {
+  color: #5f8fc0;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .row2
+  .btn-container
+  .big-btn {
+  width: 453px;
+  height: 79px;
+  background: #2a8002;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .row2
+  .btn-container
+  .big-btn
+  h2 {
+  color: #52ff00;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  padding: 13px 0;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .row2
+  .btn-container
+  .big-btn
+  p {
+  color: #52ff00;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.home_item3 .container .feature-recommded-section .recomanded-banner-wrap2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .recomanded-banner-wrap2
+  .row4
+  .container
+  .box-container
+  .row5 {
+  position: absolute;
 }
