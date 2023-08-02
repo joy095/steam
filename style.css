@@ -445,7 +445,7 @@ header {
 .home_item3 .container .feature-recommded-section {
   width: 1617px;
   background: #192c3e;
-  padding: 49px 90px;
+  padding: 49px 90px 85px;
 }
 
 .home_item3 .container .feature-recommded-section .title h2 {
@@ -998,9 +998,223 @@ header {
   .container
   .feature-recommded-section
   .recomanded-banner-wrap2
-  .row4
+  .banner {
+  width: 100%;
+}
+
+.home_item3
   .container
+  .feature-recommded-section
+  .recomanded-banner-wrap2
+  .row4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 115px;
+  position: absolute;
+  transform: translate(50%, 35%);
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .recomanded-banner-wrap2
+  .row4
   .box-container
+  .text-container
   .row5 {
   position: absolute;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .recomanded-banner-wrap2
+  .row4
+  .box-container
+  .text-container
+  .row5
+  .box-1row,
+.home_item3
+  .container
+  .feature-recommded-section
+  .recomanded-banner-wrap2
+  .row4
+  .box-container
+  .text-container
+  .box-2row {
+  width: 201px;
+  height: 60px;
+  padding: 0 18px;
+  background: #000;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .recomanded-banner-wrap2
+  .row4
+  .box-container
+  .text-container
+  .row5
+  .box-1row
+  h2,
+.home_item3
+  .container
+  .feature-recommded-section
+  .recomanded-banner-wrap2
+  .row4
+  .box-container
+  .text-container
+  .box-2row
+  h2 {
+  color: #fff;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 195.9%; /* 50.934px */
+  letter-spacing: 40.56px;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .recomanded-banner-wrap2
+  .row4
+  .row6
+  .sm-heading
+  h4 {
+  color: #000;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 195.9%; /* 47.016px */
+  text-transform: uppercase;
+  margin-top: -10px;
+}
+
+.home_item3
+  .container
+  .feature-recommded-section
+  .recomanded-banner-wrap2
+  .row4
+  .row6
+  .lg-heading
+  h2 {
+  color: #000;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 90.9%; /* 36.36px */
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+  max-width: 435px;
+}
+
+.home_item4 {
+  padding-top: 90px;
+}
+
+.home_item4 .heading {
+  padding-bottom: 25px;
+}
+
+.home_item4 .heading h4 {
+  color: #fff;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.home_item4 .img-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.home_item4 .img-row .img-container {
+  width: 343px;
+  height: 479px;
+  position: relative;
+}
+
+.home_item4 .img-row .img-container img {
+  width: 343px;
+  height: 479px;
+  object-fit: cover;
+}
+
+.home_item4 .img-row .img-container .text {
+  position: absolute;
+  bottom: 12px;
+  left: 13px;
+}
+
+.home_item4 .img-row .img-container .text .heading {
+  color: #fff;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: uppercase;
+  padding-bottom: 0;
+}
+
+.home_item4 .img-row .img-container .text .details {
+  color: #fff;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+.home_item4 .img-row .img-container .text-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: -40px 13px 12px 13px;
+}
+
+.home_item4 .img-row .img-container .text-row p {
+  color: #fff;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.home_item5 {
+  padding-top: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.home_item5 img {
+  width: 60px;
+  height: 54px;
+  object-fit: cover;
+  padding-bottom: 40px;
+}
+
+.home_item5 .md-text {
+  color: #51d3ff;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: capitalize;
+  padding-bottom: 5px;
+}
+
+.home_item5 .sm-text {
+  color: #345f6d;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  text-transform: capitalize;
 }
