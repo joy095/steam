@@ -442,13 +442,13 @@ header {
   padding-bottom: 3px;
 }
 
-.home_item3 .container .feature-recommded-section {
-  width: 1617px;
+.home_item3 .container .row .feature-recommded-section {
+  max-width: 1617px;
   background: #192c3e;
   padding: 49px 90px 85px;
 }
 
-.home_item3 .container .feature-recommded-section .title h2 {
+.home_item3 .container .row .feature-recommded-section .title h2 {
   text-transform: uppercase;
   color: #fff;
   font-size: 24px;
@@ -457,7 +457,7 @@ header {
   line-height: normal;
 }
 
-.home_item3 .container .feature-recommded-section .recomended-wrapper2 {
+.home_item3 .container .row .feature-recommded-section .recomended-wrapper2 {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -466,6 +466,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap {
@@ -476,6 +477,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap
@@ -487,6 +489,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap
@@ -502,6 +505,7 @@ header {
 }
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap
@@ -518,6 +522,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap
@@ -531,6 +536,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap
@@ -546,6 +552,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap
@@ -559,6 +566,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap
@@ -573,6 +581,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap
@@ -588,6 +597,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap
@@ -603,6 +613,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap
@@ -618,6 +629,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap
@@ -636,6 +648,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap
@@ -652,6 +665,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap
@@ -666,6 +680,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap
@@ -682,6 +697,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomanded-banner-wrap
@@ -699,6 +715,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomended-card-container {
@@ -710,6 +727,7 @@ header {
 }
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomended-card-container
@@ -721,6 +739,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomended-card-container
@@ -738,6 +757,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomended-card-container
@@ -748,6 +768,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomended-card-container
@@ -760,6 +781,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomended-card-container
@@ -775,6 +797,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomended-card-container
@@ -790,6 +813,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomended-card-container
@@ -800,6 +824,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomended-card-container
@@ -815,6 +840,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomended-card-container
@@ -830,6 +856,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomended-card-container
@@ -845,6 +872,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomended-wrapper2
   .recomended-card-container
@@ -859,7 +887,7 @@ header {
   bottom: 30px;
 }
 
-.home_item3 .container .feature-recommded-section .row2 {
+.home_item3 .container .row .feature-recommded-section .row2 {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -867,7 +895,7 @@ header {
   padding: 30px 0 90px;
 }
 
-.home_item3 .container .feature-recommded-section .row2 .img-container {
+.home_item3 .container .row .feature-recommded-section .row2 .img-container {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -876,6 +904,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .row2
   .img-container
@@ -886,6 +915,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .row2
   .img-container
@@ -896,14 +926,20 @@ header {
   object-fit: cover;
 }
 
-.home_item3 .container .feature-recommded-section .row2 .btn-container {
+.home_item3 .container .row .feature-recommded-section .row2 .btn-container {
   min-width: 453px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 
-.home_item3 .container .feature-recommded-section .row2 .btn-container .row3 {
+.home_item3
+  .container
+  .row
+  .feature-recommded-section
+  .row2
+  .btn-container
+  .row3 {
   display: flex;
   flex-flow: row wrap;
   gap: 12px;
@@ -912,6 +948,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .row2
   .btn-container
@@ -928,6 +965,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .row2
   .btn-container
@@ -944,6 +982,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .row2
   .btn-container
@@ -960,6 +999,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .row2
   .btn-container
@@ -975,6 +1015,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .row2
   .btn-container
@@ -987,7 +1028,11 @@ header {
   line-height: normal;
 }
 
-.home_item3 .container .feature-recommded-section .recomanded-banner-wrap2 {
+.home_item3
+  .container
+  .row
+  .feature-recommded-section
+  .recomanded-banner-wrap2 {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -996,6 +1041,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomanded-banner-wrap2
   .banner {
@@ -1004,6 +1050,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomanded-banner-wrap2
   .row4 {
@@ -1017,6 +1064,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomanded-banner-wrap2
   .row4
@@ -1028,6 +1076,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomanded-banner-wrap2
   .row4
@@ -1037,6 +1086,7 @@ header {
   .box-1row,
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomanded-banner-wrap2
   .row4
@@ -1051,6 +1101,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomanded-banner-wrap2
   .row4
@@ -1061,6 +1112,7 @@ header {
   h2,
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomanded-banner-wrap2
   .row4
@@ -1078,6 +1130,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomanded-banner-wrap2
   .row4
@@ -1095,6 +1148,7 @@ header {
 
 .home_item3
   .container
+  .row
   .feature-recommded-section
   .recomanded-banner-wrap2
   .row4
@@ -1217,4 +1271,52 @@ header {
   font-weight: 300;
   line-height: normal;
   text-transform: capitalize;
+}
+
+footer {
+  padding: 52px 32px;
+  background: #141a20;
+}
+
+footer .row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+footer .row .valve {
+  width: 163px;
+  height: 46px;
+}
+
+footer .row .valve img {
+  width: 163px;
+  height: 46px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+footer .row .steam {
+  width: 191px;
+  height: 46px;
+}
+
+footer .row .steam img {
+  width: 191px;
+  height: 46px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+footer .row .copy-right {
+  max-width: 1107px;
+}
+
+footer .row .copy-right p {
+  color: #8f959a;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px; /* 0% */
 }
